@@ -31,7 +31,6 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1.5;
     font-size: 16px;
-    color: white;
     background-color: aliceblue;
 
 }
@@ -59,13 +58,12 @@ header{
 .brand{
     font-size: 32px;
     text-decoration: none;
-    color:mediumorchid;
+    color:greenyellow;
     font-weight: 700;
 }
 nav{
     display: inline-block;
     vertical-align: middle;
-    text-align: right;
     float: right;
 }
 .nav{
@@ -74,7 +72,7 @@ nav{
     color: white;
 }
 main{
-    background-color: palegreen;
+    background-color:blanchedalmond;
 }
 .hero{
     width: 1300px;
@@ -108,4 +106,5 @@ footer{
     font-size: 20px;
     text-align: center;
     height: 50px;
+    color: white;
 }
